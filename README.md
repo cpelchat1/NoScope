@@ -1,11 +1,10 @@
 # NoScope
 #NoScope App from HRG
 
-To Do list:
+#To Do list:
 
 
 3D Models:
 
--Doritos Bag (Wastebasket
--Popcan (Mnt Dew/ rip of of Mnt Dew)
+Doritos Bag (Wastebasket) | Popcan | Harambe  Statue | Golden Harambe  Statue | Golden  Waste Basket
 
